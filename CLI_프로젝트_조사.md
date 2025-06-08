@@ -4,23 +4,7 @@ Go 언어로 작성된 간단하고 구조가 명확한 CLI(명령줄 인터페�
 
 ---
 
-## 1. Todo List CLI
-
-**설명:**  
-간단한 할 일(Task) 목록을 추가/삭제/조회할 수 있는 CLI 도구입니다.
-
-**주요 기능:**  
-- 할 일 추가  
-- 할 일 목록 조회  
-- 할 일 완료 체크 및 삭제
-
-**예시 레포:**  
-- [ayushbherwani1998/todo-cli](https://github.com/ayushbherwani1998/todo-cli)  
-- [make-it/todo-cli](https://github.com/make-it/todo-cli)
-
----
-
-## 2. Go CLI 템플릿
+## 1. Go CLI 템플릿
 
 **설명:**  
 CLI 프로젝트의 뼈대를 제공하는 템플릿. Cobra, urfave/cli 등 유명한 CLI 프레임워크를 활용하여 명령 구조와 플래그 파싱 등 기본 패턴을 익힐 수 있습니다.
@@ -28,39 +12,6 @@ CLI 프로젝트의 뼈대를 제공하는 템플릿. Cobra, urfave/cli 등 유�
 **예시 레포:**  
 - [spf13/cobra-cli](https://github.com/spf13/cobra-cli) (Cobra 프레임워크)
 - [urfave/cli-example](https://github.com/urfave/cli-example) (urfave/cli 프레임워크)
-
----
-
-## 3. 간단한 계산기 CLI
-
-**설명:**  
-사칙연산(+, -, *, /)을 명령줄에서 수행하는 기본 CLI 예제입니다.
-
-**예시 레포:**  
-- [TheAlgorithms/Go: calculator.go](https://github.com/TheAlgorithms/Go/blob/master/math/calculator.go)
-- [abdfnx/calc-cli](https://github.com/abdfnx/calc-cli)
-
----
-
-## 4. 파일 카운터(line/word/char count)
-
-**설명:**  
-파일의 라인 수, 단어 수, 문자 수를 세는 간단한 wc(Word Count) 클론입니다.
-
-**예시 레포:**  
-- [hakluke/how-to-exit-vim - wc.go](https://github.com/hakluke/how-to-exit-vim/blob/master/examples/wc.go)
-- [gopherguides/wc-go](https://github.com/gopherguides/wc-go)
-
----
-
-## 5. HTTP 요청 CLI
-
-**설명:**  
-curl처럼 동작하는 아주 간단한 http 요청 CLI 도구. URL을 입력하면 GET 결과를 출력합니다.
-
-**예시 레포:**  
-- [prashantgupta24/simplehttp](https://github.com/prashantgupta24/simplehttp)
-- [subosito/gotenv/examples/http-client](https://github.com/subosito/gotenv/blob/master/examples/http-client/main.go)
 
 ---
 
